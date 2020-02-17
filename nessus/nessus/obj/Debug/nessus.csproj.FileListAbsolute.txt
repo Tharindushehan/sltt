@@ -1,0 +1,9 @@
+C:\Users\isva\source\repos\nessus\nessus\bin\Debug\nessus.exe.config
+C:\Users\isva\source\repos\nessus\nessus\bin\Debug\nessus.exe
+C:\Users\isva\source\repos\nessus\nessus\bin\Debug\nessus.pdb
+C:\Users\isva\source\repos\nessus\nessus\obj\Debug\nessus.csprojAssemblyReference.cache
+C:\Users\isva\source\repos\nessus\nessus\obj\Debug\nessus.Form1.resources
+C:\Users\isva\source\repos\nessus\nessus\obj\Debug\nessus.Properties.Resources.resources
+C:\Users\isva\source\repos\nessus\nessus\obj\Debug\nessus.csproj.GenerateResource.cache
+C:\Users\isva\source\repos\nessus\nessus\obj\Debug\nessus.exe
+C:\Users\isva\source\repos\nessus\nessus\obj\Debug\nessus.pdb
